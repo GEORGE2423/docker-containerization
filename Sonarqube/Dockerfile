@@ -1,4 +1,4 @@
-FROM eclipse-temurin:17-jre
+FROM  eclipse-temurin:17-jre
 
 ENV LANG='en_US.UTF-8' \
     LANGUAGE='en_US:en' \
